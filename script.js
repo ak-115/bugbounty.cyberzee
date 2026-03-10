@@ -1,5 +1,5 @@
 /* ============================================================
-   RAD 2.0 — ctf.cyberzee.space
+Bug Bounty Challenge — bugbounty.cyberzee.space
    Landing Page JS
    Canvas: Stars + Drifting Particles + Nebulae + Orbital Rings
    Countdown | Card Tilt | Nav | Scroll Reveal
@@ -230,7 +230,7 @@
      UPDATE this date to the real event date
   ═══════════════════════════════════════ */
   // Set your event date here (IST = UTC+5:30)
-  var EVENT_DATE = new Date('2025-04-12T10:00:00+05:30');
+  var EVENT_DATE = new Date('2026-04-14T00:00:00+05:30');
 
   var cdDays  = document.getElementById('cd-days');
   var cdHours = document.getElementById('cd-hours');
